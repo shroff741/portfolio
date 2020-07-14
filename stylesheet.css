@@ -105,6 +105,9 @@ h5 {
 	margin-bottom: 20px;
 	/* border-left-width: 0px; */
 }
+#about_container {
+	padding: 0px 50px 140px 30px;
+}
 .about {
 	font-size: 150%;
 	color: darkslategray;
